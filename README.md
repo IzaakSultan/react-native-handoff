@@ -1,5 +1,10 @@
 # react-native-handoff
 
+## Installation
+```
+yarn add react-native-handoff
+react-native link
+```
 ## Usage
 
 ```javascript

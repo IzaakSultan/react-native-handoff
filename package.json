@@ -2,5 +2,9 @@
   "name": "react-native-handoff",
   "version": "0.0.1",
   "keywords": "react-native",
-  "main": "RNHandoff"
+  "main": "RNHandoff",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"    
+  }
 }

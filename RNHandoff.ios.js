@@ -1,9 +1,3 @@
-/**
- * @providesModule RNHandoff
- * @flow
- */
-'use strict';
-
 import { Component } from 'react';
 import { NativeModules } from 'react-native'
 

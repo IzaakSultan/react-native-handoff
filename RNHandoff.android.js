@@ -1,7 +1,7 @@
-import { Component } from 'react';
+import { PureComponent } from 'react'
 
-export default class Handoff extends Component {
-    render() {
-        return null;
-    }
+export default class Handoff extends PureComponent {
+  render() {
+    return null
+  }
 }
